@@ -2,9 +2,6 @@
 
 **Universidad de los Andes – Systems and Computing Engineering Department**
 📚 **Semester:** 2024–20
-👨‍🏫 **Professors:**
-
-* Ing. Germán A. Montoya, PhD (Sections 1 & 3)
 
 ---
 
@@ -94,28 +91,9 @@ The final project integrates all three areas of the course:
 
 * Lectures with guided discussion.
 * Hands-on workshops and modeling exercises.
-* Laboratory sessions using **GAMS**, **Pyomo**, and **SimPy**.
+* Laboratory sessions using **Pyomo**.
 * Team project with progressive deliverables and oral defense.
-
----
-
-## 🧭 Reasonable Adjustments
-
-The Universidad de los Andes provides **reasonable accommodations** for students with disabilities or medical conditions to ensure equitable participation and learning.
-These are coordinated through the **Dean of Students Office**, promoting inclusion and accessibility.
-
----
-
-## 🧾 Course Information
-
-| Field             | Value                        |
-| ----------------- | ---------------------------- |
-| **Course Code**   | ISIS3302                     |
-| **Type**          | Mandatory                    |
-| **Credits**       | 3                            |
-| **Weekly Hours**  | 4.5 theory + 1.5 lab         |
-| **Prerequisites** | ISIS1206, ISIS1106, IIND2106 |
-
+* 
 --
 ## 👥 Team
 
